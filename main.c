@@ -1,7 +1,10 @@
+// Mason Jennings
+// masonj@csu.fullerton.edu
+
 #include <stdio.h>
 #include <string.h>
 
-extern const char* series();
+extern double series();
 
 int main(int argc, char* argv[]) {
 
